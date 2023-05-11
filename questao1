@@ -1,0 +1,20 @@
+Algoritmo:
+
+Início
+Declarar nas variáveis os seguintes itens: valor, valor1 e valor inteiro.
+Ler os valores que foram apresentados no item acima: valor, valor1 e valor inteiro
+Se valor >= valor1 e valor1 >= valor inteiro, então
+Exibir "Maior valor recebido: ", valor1
+Senão se valor inteiro >= valor1 e valor 1 >= valor inteiro, então
+Exibir "Maior valor recebido: ", valor inteiro
+Senão
+Exibir "Maior valor recebido: ", valor inteiro
+Fim !
+Se valor <= valor1 e valor1 <= valor inteiro,
+então
+Exibir "Menor valor recebido: ", valor
+Senão se valor1 <= valor e valor1 <= valor inteiro, então
+Exibir "Menor valor recebido: ", valor 1
+Senão
+Exibir "Menor valor recebido: ", valo inteiro
+Fim
