@@ -1,0 +1,9 @@
+Algoritmo:
+
+Nome da pessoa, idade, peso atual, altura e sexo;
+Calcular o peso ideal, baseado na fórmula correspondente ao sexo e idade;
+Calcular a diferença entre o peso atual e o peso ideal;
+Imprimir o peso ideal e a diferença;
+Verificar a diferença se ela é positiva ou negativa;
+Se der a diferença positiva, imprimir "Você está acima do peso ideal!";
+Se de a diferença negativa, imprimir "Você está abaixo do peso ideal!".
